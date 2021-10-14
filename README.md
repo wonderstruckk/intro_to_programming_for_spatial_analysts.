@@ -1,1 +1,1 @@
-# intro_to_programming_for_spatial_analysts.
+# Intro to programming for spatial analysts.
